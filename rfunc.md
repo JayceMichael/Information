@@ -2,6 +2,8 @@
 
 [CLIENT]
 
+
+```LUA
 local tbutton = script.Parent
 rbool = true
 
@@ -18,9 +20,9 @@ tbutton.MouseButton1Down:Connect(
  		end
 	end
 )
-
+```
 [SERVER]
-
+```LUA
 local rfunc = game.ReplicatedStorage:WaitForChild("RemoteFunction")
 
 plr_parts = {}
@@ -51,3 +53,4 @@ function callback(plr, rbool)
 end
 
 rfunc.OnServerInvoke = callback
+```
