@@ -1,6 +1,6 @@
-#Made by: @JayceMichael
+# Made by: @JayceMichael
 
-[CLIENT]
+**[CLIENT]**
 
 
 ```LUA
@@ -21,7 +21,7 @@ tbutton.MouseButton1Down:Connect(
 	end
 )
 ```
-[SERVER]
+**[SERVER]**
 ```LUA
 local rfunc = game.ReplicatedStorage:WaitForChild("RemoteFunction")
 
@@ -54,5 +54,3 @@ end
 
 rfunc.OnServerInvoke = callback
 ```
-
-![GitHub Logo](/images/logo.png)
