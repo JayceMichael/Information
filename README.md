@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Jayce!
-- 👀 I’m interested in coding in LUA.
-- 🌱 I’m currently learning C#/Cs
+# Info
 
-<!---
-nil
---->
+All this is is just to securely store my code data because this is a site I trust and a site many other programmers use on a [DAILY] basis.
+***Don't sent pull req's***
