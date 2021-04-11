@@ -33,6 +33,6 @@ feFrame:WaitForChild("TestFolder").MouseButton1Down:Connect(
 )
 ```
 
-# exampled
+# example
 ![after_click](https://i.gyazo.com/af81f0ba6969caa8ab84f5ec82b4b29b.png)
 ![item tree](https://i.gyazo.com/8ad8d798c265e646e404c5f008551b89.png)
